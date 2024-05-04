@@ -1,0 +1,154 @@
+[
+    {
+        "user": "Young Couple f12ef8a4-45f7-4e9b-a9e1-efb892317c87",
+        "appliance": "Vacuum Shark NV391",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 19,
+                    "end": 19
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple f12ef8a4-45f7-4e9b-a9e1-efb892317c87",
+        "appliance": "Electric car Mini Cooper E",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 4
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple f12ef8a4-45f7-4e9b-a9e1-efb892317c87",
+        "appliance": "Dishwasher Electrolux ESF6175PW",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 16,
+                    "end": 16
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple f12ef8a4-45f7-4e9b-a9e1-efb892317c87",
+        "appliance": "Oven Samsung NE59N5950SS",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 18
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple f12ef8a4-45f7-4e9b-a9e1-efb892317c87",
+        "appliance": "Washing machine Electrolux EFLS617SI",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 11
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple f12ef8a4-45f7-4e9b-a9e1-efb892317c87",
+        "appliance": "Refrigerator Haier HRF-342D6AWB",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple f12ef8a4-45f7-4e9b-a9e1-efb892317c87",
+        "appliance": "Laptop Acer Swift 3",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple f12ef8a4-45f7-4e9b-a9e1-efb892317c87",
+        "appliance": "Television Sony X90K",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+{
+    "name": "Family e9a852ae-4917-450e-8a68-f3d02db2f373",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Haier HDI-2T52FSS",
+            "nominal_power_W": 1100,
+            "type": "SH",
+            "duration": 1
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Dacia Spring Electric 45",
+            "nominal_power_W": 4288.0,
+            "type": "SI",
+            "min_uptime": 5
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Dell XPS 13",
+            "nominal_power_W": 45,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Whirlpool WOC5ER150",
+            "nominal_power_W": 2200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Whirlpool WRF535SMBHD",
+            "nominal_power_W": 110,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Sceptre S515WV-F",
+            "nominal_power_W": 35,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Samsung Jet Bot AI+",
+            "nominal_power_W": 180,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "LG WM3900HVA",
+            "nominal_power_W": 1500,
+            "type": "SH",
+            "duration": 2
+        }
+    },
+    "profile": "Family"
+}

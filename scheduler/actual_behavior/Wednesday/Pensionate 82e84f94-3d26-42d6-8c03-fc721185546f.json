@@ -1,0 +1,171 @@
+[
+    {
+        "user": "Pensionate 82e84f94-3d26-42d6-8c03-fc721185546f",
+        "appliance": "Vacuum Hoover ONEPWR Cordless Reach",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 2,
+                    "end": 3
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 82e84f94-3d26-42d6-8c03-fc721185546f",
+        "appliance": "Dishwasher Maytag MDB8959SKW",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 6
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 82e84f94-3d26-42d6-8c03-fc721185546f",
+        "appliance": "Oven Bosch HBN3551UC",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 12,
+                    "end": 12
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 82e84f94-3d26-42d6-8c03-fc721185546f",
+        "appliance": "Washing machine Electrolux EFLS617SI",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 8,
+                    "end": 8
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 82e84f94-3d26-42d6-8c03-fc721185546f",
+        "appliance": "Refrigerator Haier HRF-342D6AWB",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 82e84f94-3d26-42d6-8c03-fc721185546f",
+        "appliance": "Laptop Samsung Galaxy Book Pro",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 82e84f94-3d26-42d6-8c03-fc721185546f",
+        "appliance": "Television Toshiba M5500",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "user": "Family 4f889ed3-af08-43f4-a703-018342da07a8",
+        "appliance": "Vacuum Ecovacs DEEBOT Ozmo T8 AIVI",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 1,
+                    "end": 2
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 8
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4f889ed3-af08-43f4-a703-018342da07a8",
+        "appliance": "Electric car Fiat 500e 3+1 24 kWh",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 1,
+                    "end": 4
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4f889ed3-af08-43f4-a703-018342da07a8",
+        "appliance": "Dishwasher Maytag MDB8959SKW",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 22,
+                    "end": 22
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4f889ed3-af08-43f4-a703-018342da07a8",
+        "appliance": "Oven Electrolux EI30BF01",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 12,
+                    "end": 12
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4f889ed3-af08-43f4-a703-018342da07a8",
+        "appliance": "Washing machine Whirlpool WTW79ES7HZ",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 19,
+                    "end": 19
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4f889ed3-af08-43f4-a703-018342da07a8",
+        "appliance": "Refrigerator LG LFXS2699SW",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4f889ed3-af08-43f4-a703-018342da07a8",
+        "appliance": "Laptop HP Spectre x360",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4f889ed3-af08-43f4-a703-018342da07a8",
+        "appliance": "Television Vizio M-Series",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

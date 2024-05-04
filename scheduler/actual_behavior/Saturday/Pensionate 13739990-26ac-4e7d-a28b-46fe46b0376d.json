@@ -1,0 +1,171 @@
+[
+    {
+        "user": "Pensionate 13739990-26ac-4e7d-a28b-46fe46b0376d",
+        "appliance": "Vacuum Bissell PowerEdge Slim Lightweight",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 2,
+                    "end": 2
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 13739990-26ac-4e7d-a28b-46fe46b0376d",
+        "appliance": "Dishwasher GE GTS5550SCS",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 12,
+                    "end": 12
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 13739990-26ac-4e7d-a28b-46fe46b0376d",
+        "appliance": "Oven Whirlpool WOC5ER150",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 18
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 13739990-26ac-4e7d-a28b-46fe46b0376d",
+        "appliance": "Washing machine Kenmore 79092",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 14,
+                    "end": 15
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 13739990-26ac-4e7d-a28b-46fe46b0376d",
+        "appliance": "Refrigerator Samsung RT25H5955BS",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 13739990-26ac-4e7d-a28b-46fe46b0376d",
+        "appliance": "Laptop Lenovo ThinkPad X1 Carbon",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 13739990-26ac-4e7d-a28b-46fe46b0376d",
+        "appliance": "Television LG C2",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

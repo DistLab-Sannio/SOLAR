@@ -1,0 +1,60 @@
+{
+    "name": "Family 53fb5b2c-01d5-4ee7-acd5-e3b03b33f565",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Electrolux ESF6175PW",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Renault Twingo Electric",
+            "nominal_power_W": 5786.666666666667,
+            "type": "SI",
+            "min_uptime": 3
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Apple MacBook Air M1",
+            "nominal_power_W": 30,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Samsung NE59N5950SS",
+            "nominal_power_W": 1800,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Samsung RT25H5955BS",
+            "nominal_power_W": 100,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "TCL 6-Series",
+            "nominal_power_W": 80,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Roborock S7",
+            "nominal_power_W": 150,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "KitchenAid KTLX1042AC",
+            "nominal_power_W": 1600,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Family"
+}

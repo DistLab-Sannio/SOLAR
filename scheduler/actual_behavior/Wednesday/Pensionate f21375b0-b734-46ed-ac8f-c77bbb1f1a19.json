@@ -1,0 +1,171 @@
+[
+    {
+        "user": "Pensionate f21375b0-b734-46ed-ac8f-c77bbb1f1a19",
+        "appliance": "Vacuum Dirt Devil SB700 AccuCharge Cordless Stick",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 4,
+                    "end": 4
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate f21375b0-b734-46ed-ac8f-c77bbb1f1a19",
+        "appliance": "Dishwasher GE GTS5550SCS",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 8,
+                    "end": 8
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate f21375b0-b734-46ed-ac8f-c77bbb1f1a19",
+        "appliance": "Oven Bosch HBN3551UC",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 11
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate f21375b0-b734-46ed-ac8f-c77bbb1f1a19",
+        "appliance": "Washing machine GE GTD42PASMVH",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 14,
+                    "end": 14
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate f21375b0-b734-46ed-ac8f-c77bbb1f1a19",
+        "appliance": "Refrigerator Electrolux EI32BE300",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate f21375b0-b734-46ed-ac8f-c77bbb1f1a19",
+        "appliance": "Laptop Lenovo ThinkPad X1 Carbon",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate f21375b0-b734-46ed-ac8f-c77bbb1f1a19",
+        "appliance": "Television Sceptre S515WV-F",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

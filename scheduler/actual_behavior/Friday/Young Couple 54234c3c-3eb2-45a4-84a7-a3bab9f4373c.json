@@ -1,0 +1,154 @@
+[
+    {
+        "user": "Young Couple 54234c3c-3eb2-45a4-84a7-a3bab9f4373c",
+        "appliance": "Vacuum Hoover ONEPWR Cordless Reach",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 1,
+                    "end": 4
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 54234c3c-3eb2-45a4-84a7-a3bab9f4373c",
+        "appliance": "Electric car Fiat 500e 3+1 24 kWh",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 4
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 54234c3c-3eb2-45a4-84a7-a3bab9f4373c",
+        "appliance": "Dishwasher Maytag MDB8959SKW",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 18
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 54234c3c-3eb2-45a4-84a7-a3bab9f4373c",
+        "appliance": "Oven Maytag MEC8800FZ",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 18
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 54234c3c-3eb2-45a4-84a7-a3bab9f4373c",
+        "appliance": "Washing machine Samsung WF4&BBM9040AP",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 9,
+                    "end": 9
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 54234c3c-3eb2-45a4-84a7-a3bab9f4373c",
+        "appliance": "Refrigerator Bosch KAN93NXUSD",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 54234c3c-3eb2-45a4-84a7-a3bab9f4373c",
+        "appliance": "Laptop Lenovo ThinkPad X1 Carbon",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 54234c3c-3eb2-45a4-84a7-a3bab9f4373c",
+        "appliance": "Television LG C2",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

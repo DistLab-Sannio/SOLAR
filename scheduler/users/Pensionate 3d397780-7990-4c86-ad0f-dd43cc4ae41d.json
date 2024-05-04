@@ -1,0 +1,53 @@
+{
+    "name": "Pensionate 3d397780-7990-4c86-ad0f-dd43cc4ae41d",
+    "max_abs_power_W": 6000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Bosch SMS40E08EU",
+            "nominal_power_W": 1950,
+            "type": "SH",
+            "duration": 1
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Microsoft Surface Laptop 4",
+            "nominal_power_W": 35,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "GE Cafe CGB715SKSS",
+            "nominal_power_W": 2500,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Whirlpool WRF535SMBHD",
+            "nominal_power_W": 110,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Toshiba M5500",
+            "nominal_power_W": 50,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "BISSELL CrossWave Pet Pro",
+            "nominal_power_W": 500,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Electrolux EFLS617SI",
+            "nominal_power_W": 1000,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Pensionate"
+}

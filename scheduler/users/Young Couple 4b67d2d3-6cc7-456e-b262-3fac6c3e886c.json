@@ -1,0 +1,60 @@
+{
+    "name": "Young Couple 4b67d2d3-6cc7-456e-b262-3fac6c3e886c",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Haier HDI-2T52FSS",
+            "nominal_power_W": 1100,
+            "type": "SH",
+            "duration": 1
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Renault Twingo Electric",
+            "nominal_power_W": 4340.0,
+            "type": "SI",
+            "min_uptime": 4
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "HP Spectre x360",
+            "nominal_power_W": 40,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Kenmore Elite 50363",
+            "nominal_power_W": 2800,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Whirlpool WRF535SMBHD",
+            "nominal_power_W": 110,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Hisense U8H",
+            "nominal_power_W": 70,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Bissell PowerEdge Slim Lightweight",
+            "nominal_power_W": 80,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Whirlpool WTW79ES7HZ",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Young Couple"
+}

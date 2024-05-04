@@ -1,0 +1,171 @@
+[
+    {
+        "user": "Pensionate 3d397780-7990-4c86-ad0f-dd43cc4ae41d",
+        "appliance": "Vacuum BISSELL CrossWave Pet Pro",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 2,
+                    "end": 2
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 3d397780-7990-4c86-ad0f-dd43cc4ae41d",
+        "appliance": "Dishwasher Bosch SMS40E08EU",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 9,
+                    "end": 9
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 3d397780-7990-4c86-ad0f-dd43cc4ae41d",
+        "appliance": "Oven GE Cafe CGB715SKSS",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 11
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 3d397780-7990-4c86-ad0f-dd43cc4ae41d",
+        "appliance": "Washing machine Electrolux EFLS617SI",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 7,
+                    "end": 7
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 3d397780-7990-4c86-ad0f-dd43cc4ae41d",
+        "appliance": "Refrigerator Whirlpool WRF535SMBHD",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 3d397780-7990-4c86-ad0f-dd43cc4ae41d",
+        "appliance": "Laptop Microsoft Surface Laptop 4",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate 3d397780-7990-4c86-ad0f-dd43cc4ae41d",
+        "appliance": "Television Toshiba M5500",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "user": "Young Couple bef98dcc-def6-488d-8127-b263f4fa75a6",
+        "appliance": "Vacuum Dirt Devil SB700 AccuCharge Cordless Stick",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 1,
+                    "end": 3
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple bef98dcc-def6-488d-8127-b263f4fa75a6",
+        "appliance": "Electric car Mini Cooper E",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 4
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple bef98dcc-def6-488d-8127-b263f4fa75a6",
+        "appliance": "Dishwasher GE GTS5550SCS",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 21,
+                    "end": 22
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple bef98dcc-def6-488d-8127-b263f4fa75a6",
+        "appliance": "Oven GE Cafe CGB715SKSS",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 19,
+                    "end": 19
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple bef98dcc-def6-488d-8127-b263f4fa75a6",
+        "appliance": "Washing machine Samsung WF4&BBM9040AP",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 11
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple bef98dcc-def6-488d-8127-b263f4fa75a6",
+        "appliance": "Refrigerator LG LFXS2699SW",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple bef98dcc-def6-488d-8127-b263f4fa75a6",
+        "appliance": "Laptop Microsoft Surface Laptop 4",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple bef98dcc-def6-488d-8127-b263f4fa75a6",
+        "appliance": "Television Toshiba M5500",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

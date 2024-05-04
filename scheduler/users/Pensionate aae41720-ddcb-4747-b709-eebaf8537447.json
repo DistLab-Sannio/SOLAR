@@ -1,0 +1,53 @@
+{
+    "name": "Pensionate aae41720-ddcb-4747-b709-eebaf8537447",
+    "max_abs_power_W": 6000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Samsung DW80M9550US",
+            "nominal_power_W": 1500,
+            "type": "SH",
+            "duration": 1
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Microsoft Surface Laptop 4",
+            "nominal_power_W": 35,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Whirlpool WOC5ER150",
+            "nominal_power_W": 2200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Whirlpool WRF535SMBHD",
+            "nominal_power_W": 110,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Insignia NS-55F301NA21",
+            "nominal_power_W": 45,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Samsung Jet Bot AI+",
+            "nominal_power_W": 180,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Whirlpool WTW79ES7HZ",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Pensionate"
+}

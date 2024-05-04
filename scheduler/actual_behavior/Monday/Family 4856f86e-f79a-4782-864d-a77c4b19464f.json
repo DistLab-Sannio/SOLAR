@@ -1,0 +1,154 @@
+[
+    {
+        "user": "Family 4856f86e-f79a-4782-864d-a77c4b19464f",
+        "appliance": "Vacuum Hoover ONEPWR Cordless Reach",
+        "weekday": "Monday",
+        "interval_sets": [
+            [
+                {
+                    "start": 16,
+                    "end": 16
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4856f86e-f79a-4782-864d-a77c4b19464f",
+        "appliance": "Electric car Mini Cooper E",
+        "weekday": "Monday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 3
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4856f86e-f79a-4782-864d-a77c4b19464f",
+        "appliance": "Dishwasher Electrolux ESF6175PW",
+        "weekday": "Monday",
+        "interval_sets": [
+            [
+                {
+                    "start": 19,
+                    "end": 19
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4856f86e-f79a-4782-864d-a77c4b19464f",
+        "appliance": "Oven Electrolux EI30BF01",
+        "weekday": "Monday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 18
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4856f86e-f79a-4782-864d-a77c4b19464f",
+        "appliance": "Washing machine Kenmore 79092",
+        "weekday": "Monday",
+        "interval_sets": [
+            [
+                {
+                    "start": 7,
+                    "end": 7
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4856f86e-f79a-4782-864d-a77c4b19464f",
+        "appliance": "Refrigerator KitchenAid KFIS20ET",
+        "weekday": "Monday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4856f86e-f79a-4782-864d-a77c4b19464f",
+        "appliance": "Laptop Lenovo ThinkPad X1 Carbon",
+        "weekday": "Monday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 4856f86e-f79a-4782-864d-a77c4b19464f",
+        "appliance": "Television Hisense U8H",
+        "weekday": "Monday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

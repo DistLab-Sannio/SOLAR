@@ -1,0 +1,154 @@
+[
+    {
+        "user": "Young Couple 4b67d2d3-6cc7-456e-b262-3fac6c3e886c",
+        "appliance": "Vacuum Bissell PowerEdge Slim Lightweight",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 12,
+                    "end": 12
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 4b67d2d3-6cc7-456e-b262-3fac6c3e886c",
+        "appliance": "Electric car Renault Twingo Electric",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 3
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 4b67d2d3-6cc7-456e-b262-3fac6c3e886c",
+        "appliance": "Dishwasher Haier HDI-2T52FSS",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 18
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 4b67d2d3-6cc7-456e-b262-3fac6c3e886c",
+        "appliance": "Oven Kenmore Elite 50363",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 19,
+                    "end": 19
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 4b67d2d3-6cc7-456e-b262-3fac6c3e886c",
+        "appliance": "Washing machine Whirlpool WTW79ES7HZ",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 19,
+                    "end": 19
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 4b67d2d3-6cc7-456e-b262-3fac6c3e886c",
+        "appliance": "Refrigerator Whirlpool WRF535SMBHD",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 4b67d2d3-6cc7-456e-b262-3fac6c3e886c",
+        "appliance": "Laptop HP Spectre x360",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 4b67d2d3-6cc7-456e-b262-3fac6c3e886c",
+        "appliance": "Television Hisense U8H",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

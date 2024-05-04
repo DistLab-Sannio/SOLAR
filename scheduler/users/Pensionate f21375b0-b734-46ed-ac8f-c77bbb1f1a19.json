@@ -1,0 +1,53 @@
+{
+    "name": "Pensionate f21375b0-b734-46ed-ac8f-c77bbb1f1a19",
+    "max_abs_power_W": 6000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "GE GTS5550SCS",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Lenovo ThinkPad X1 Carbon",
+            "nominal_power_W": 50,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Bosch HBN3551UC",
+            "nominal_power_W": 2300,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Electrolux EI32BE300",
+            "nominal_power_W": 90,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Sceptre S515WV-F",
+            "nominal_power_W": 35,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Dirt Devil SB700 AccuCharge Cordless Stick",
+            "nominal_power_W": 100,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "GE GTD42PASMVH",
+            "nominal_power_W": 1100,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Pensionate"
+}

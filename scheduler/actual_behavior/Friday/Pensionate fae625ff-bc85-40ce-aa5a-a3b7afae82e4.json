@@ -1,0 +1,171 @@
+[
+    {
+        "user": "Pensionate fae625ff-bc85-40ce-aa5a-a3b7afae82e4",
+        "appliance": "Vacuum Black+Decker DUSTBUSTER Handheld",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 3,
+                    "end": 4
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate fae625ff-bc85-40ce-aa5a-a3b7afae82e4",
+        "appliance": "Dishwasher Haier HDI-2T52FSS",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 18
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate fae625ff-bc85-40ce-aa5a-a3b7afae82e4",
+        "appliance": "Oven Maytag MEC8800FZ",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 18
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate fae625ff-bc85-40ce-aa5a-a3b7afae82e4",
+        "appliance": "Washing machine Electrolux EFLS617SI",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 6
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate fae625ff-bc85-40ce-aa5a-a3b7afae82e4",
+        "appliance": "Refrigerator KitchenAid KFIS20ET",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate fae625ff-bc85-40ce-aa5a-a3b7afae82e4",
+        "appliance": "Laptop MSI Creator 15",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate fae625ff-bc85-40ce-aa5a-a3b7afae82e4",
+        "appliance": "Television Toshiba M5500",
+        "weekday": "Friday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

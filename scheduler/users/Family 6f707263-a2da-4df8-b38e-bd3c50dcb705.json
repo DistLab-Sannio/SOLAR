@@ -1,0 +1,60 @@
+{
+    "name": "Family 6f707263-a2da-4df8-b38e-bd3c50dcb705",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Electrolux ESF6175PW",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Dacia Spring Electric 45",
+            "nominal_power_W": 4288.0,
+            "type": "SI",
+            "min_uptime": 5
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "MSI Creator 15",
+            "nominal_power_W": 120,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Samsung NE59N5950SS",
+            "nominal_power_W": 1800,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "GE GWE0935SMSS",
+            "nominal_power_W": 80,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Sony X90K",
+            "nominal_power_W": 100,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Ecovacs DEEBOT Ozmo T8 AIVI",
+            "nominal_power_W": 200,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Whirlpool WTW79ES7HZ",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Family"
+}

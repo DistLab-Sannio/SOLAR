@@ -1,0 +1,53 @@
+{
+    "name": "Pensionate fae625ff-bc85-40ce-aa5a-a3b7afae82e4",
+    "max_abs_power_W": 6000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Haier HDI-2T52FSS",
+            "nominal_power_W": 1100,
+            "type": "SH",
+            "duration": 1
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "MSI Creator 15",
+            "nominal_power_W": 120,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Maytag MEC8800FZ",
+            "nominal_power_W": 2000,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "KitchenAid KFIS20ET",
+            "nominal_power_W": 150,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Toshiba M5500",
+            "nominal_power_W": 50,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Black+Decker DUSTBUSTER Handheld",
+            "nominal_power_W": 60,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Electrolux EFLS617SI",
+            "nominal_power_W": 1000,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Pensionate"
+}

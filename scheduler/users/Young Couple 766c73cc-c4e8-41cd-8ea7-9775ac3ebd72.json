@@ -1,0 +1,60 @@
+{
+    "name": "Young Couple 766c73cc-c4e8-41cd-8ea7-9775ac3ebd72",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Maytag MDB8959SKW",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Fiat 500e 3+1 24 kWh",
+            "nominal_power_W": 4260.0,
+            "type": "SI",
+            "min_uptime": 4
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Lenovo ThinkPad X1 Carbon",
+            "nominal_power_W": 50,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Electrolux EI30BF01",
+            "nominal_power_W": 1500,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "KitchenAid KFIS20ET",
+            "nominal_power_W": 150,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Vizio M-Series",
+            "nominal_power_W": 60,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "BISSELL CrossWave Pet Pro",
+            "nominal_power_W": 500,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Electrolux EFLS617SI",
+            "nominal_power_W": 1000,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Young Couple"
+}

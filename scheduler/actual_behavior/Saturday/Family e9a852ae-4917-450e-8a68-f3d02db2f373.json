@@ -1,0 +1,154 @@
+[
+    {
+        "user": "Family e9a852ae-4917-450e-8a68-f3d02db2f373",
+        "appliance": "Vacuum Samsung Jet Bot AI+",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 16,
+                    "end": 16
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family e9a852ae-4917-450e-8a68-f3d02db2f373",
+        "appliance": "Electric car Dacia Spring Electric 45",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 4
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family e9a852ae-4917-450e-8a68-f3d02db2f373",
+        "appliance": "Dishwasher Haier HDI-2T52FSS",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 16,
+                    "end": 16
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family e9a852ae-4917-450e-8a68-f3d02db2f373",
+        "appliance": "Oven Whirlpool WOC5ER150",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 19,
+                    "end": 19
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family e9a852ae-4917-450e-8a68-f3d02db2f373",
+        "appliance": "Washing machine LG WM3900HVA",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 7
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family e9a852ae-4917-450e-8a68-f3d02db2f373",
+        "appliance": "Refrigerator Whirlpool WRF535SMBHD",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family e9a852ae-4917-450e-8a68-f3d02db2f373",
+        "appliance": "Laptop Dell XPS 13",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family e9a852ae-4917-450e-8a68-f3d02db2f373",
+        "appliance": "Television Sceptre S515WV-F",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

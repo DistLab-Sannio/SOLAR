@@ -1,0 +1,60 @@
+{
+    "name": "Young Couple 0047c671-bc6a-4204-b8e3-481ee18286a7",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Kenmore 66513",
+            "nominal_power_W": 1300,
+            "type": "SH",
+            "duration": 1
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Renault Twingo Electric",
+            "nominal_power_W": 4340.0,
+            "type": "SI",
+            "min_uptime": 4
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Apple MacBook Air M1",
+            "nominal_power_W": 30,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Whirlpool WOC5ER150",
+            "nominal_power_W": 2200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Kenmore 73042",
+            "nominal_power_W": 140,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Samsung QN85B",
+            "nominal_power_W": 150,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Dirt Devil SB700 AccuCharge Cordless Stick",
+            "nominal_power_W": 100,
+            "type": "SI",
+            "min_uptime": 2
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "GE GTD42PASMVH",
+            "nominal_power_W": 1100,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Young Couple"
+}

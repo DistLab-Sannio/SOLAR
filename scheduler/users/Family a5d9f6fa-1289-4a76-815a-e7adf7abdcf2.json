@@ -1,0 +1,60 @@
+{
+    "name": "Family a5d9f6fa-1289-4a76-815a-e7adf7abdcf2",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Kenmore 66513",
+            "nominal_power_W": 1300,
+            "type": "SH",
+            "duration": 1
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Renault Twingo Electric",
+            "nominal_power_W": 4340.0,
+            "type": "SI",
+            "min_uptime": 4
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Razer Blade 15",
+            "nominal_power_W": 170,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "LG LREL6386D",
+            "nominal_power_W": 2400,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Maytag MFI2278VR",
+            "nominal_power_W": 125,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Element ELWD4317",
+            "nominal_power_W": 40,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Dyson V8 Absolute",
+            "nominal_power_W": 250,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Haier HLC1700EMFW",
+            "nominal_power_W": 800,
+            "type": "SH",
+            "duration": 2
+        }
+    },
+    "profile": "Family"
+}

@@ -1,0 +1,154 @@
+[
+    {
+        "user": "Family a5d9f6fa-1289-4a76-815a-e7adf7abdcf2",
+        "appliance": "Vacuum Dyson V8 Absolute",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 3
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family a5d9f6fa-1289-4a76-815a-e7adf7abdcf2",
+        "appliance": "Electric car Renault Twingo Electric",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 3
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family a5d9f6fa-1289-4a76-815a-e7adf7abdcf2",
+        "appliance": "Dishwasher Kenmore 66513",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 18
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family a5d9f6fa-1289-4a76-815a-e7adf7abdcf2",
+        "appliance": "Oven LG LREL6386D",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 19,
+                    "end": 19
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family a5d9f6fa-1289-4a76-815a-e7adf7abdcf2",
+        "appliance": "Washing machine Haier HLC1700EMFW",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 12
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family a5d9f6fa-1289-4a76-815a-e7adf7abdcf2",
+        "appliance": "Refrigerator Maytag MFI2278VR",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family a5d9f6fa-1289-4a76-815a-e7adf7abdcf2",
+        "appliance": "Laptop Razer Blade 15",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family a5d9f6fa-1289-4a76-815a-e7adf7abdcf2",
+        "appliance": "Television Element ELWD4317",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

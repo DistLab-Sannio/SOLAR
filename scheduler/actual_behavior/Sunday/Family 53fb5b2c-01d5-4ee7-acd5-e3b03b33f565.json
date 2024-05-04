@@ -1,0 +1,166 @@
+[
+    {
+        "user": "Family 53fb5b2c-01d5-4ee7-acd5-e3b03b33f565",
+        "appliance": "Vacuum Roborock S7",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 4,
+                    "end": 4
+                }
+            ],
+            [
+                {
+                    "start": 8,
+                    "end": 8
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 53fb5b2c-01d5-4ee7-acd5-e3b03b33f565",
+        "appliance": "Electric car Renault Twingo Electric",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 2
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 53fb5b2c-01d5-4ee7-acd5-e3b03b33f565",
+        "appliance": "Dishwasher Electrolux ESF6175PW",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 19,
+                    "end": 19
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 53fb5b2c-01d5-4ee7-acd5-e3b03b33f565",
+        "appliance": "Oven Samsung NE59N5950SS",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 12,
+                    "end": 12
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 53fb5b2c-01d5-4ee7-acd5-e3b03b33f565",
+        "appliance": "Washing machine KitchenAid KTLX1042AC",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 9,
+                    "end": 9
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 53fb5b2c-01d5-4ee7-acd5-e3b03b33f565",
+        "appliance": "Refrigerator Samsung RT25H5955BS",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 53fb5b2c-01d5-4ee7-acd5-e3b03b33f565",
+        "appliance": "Laptop Apple MacBook Air M1",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family 53fb5b2c-01d5-4ee7-acd5-e3b03b33f565",
+        "appliance": "Television TCL 6-Series",
+        "weekday": "Sunday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,171 @@
+[
+    {
+        "user": "Pensionate d48fc575-8ea1-4681-8f0a-ded0141b471a",
+        "appliance": "Vacuum Samsung Jet Bot AI+",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 0
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate d48fc575-8ea1-4681-8f0a-ded0141b471a",
+        "appliance": "Dishwasher Electrolux ESF6175PW",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 7,
+                    "end": 7
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate d48fc575-8ea1-4681-8f0a-ded0141b471a",
+        "appliance": "Oven Electrolux EI30BF01",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 19,
+                    "end": 19
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate d48fc575-8ea1-4681-8f0a-ded0141b471a",
+        "appliance": "Washing machine Samsung WF4&BBM9040AP",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 7
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate d48fc575-8ea1-4681-8f0a-ded0141b471a",
+        "appliance": "Refrigerator Whirlpool WRF535SMBHD",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate d48fc575-8ea1-4681-8f0a-ded0141b471a",
+        "appliance": "Laptop HP Spectre x360",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Pensionate d48fc575-8ea1-4681-8f0a-ded0141b471a",
+        "appliance": "Television Sceptre S515WV-F",
+        "weekday": "Saturday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

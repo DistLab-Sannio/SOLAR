@@ -1,0 +1,60 @@
+{
+    "name": "Family 4f889ed3-af08-43f4-a703-018342da07a8",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Maytag MDB8959SKW",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Fiat 500e 3+1 24 kWh",
+            "nominal_power_W": 4260.0,
+            "type": "SI",
+            "min_uptime": 4
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "HP Spectre x360",
+            "nominal_power_W": 40,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Electrolux EI30BF01",
+            "nominal_power_W": 1500,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "LG LFXS2699SW",
+            "nominal_power_W": 130,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Vizio M-Series",
+            "nominal_power_W": 60,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Ecovacs DEEBOT Ozmo T8 AIVI",
+            "nominal_power_W": 200,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Whirlpool WTW79ES7HZ",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Family"
+}

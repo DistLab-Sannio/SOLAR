@@ -1,0 +1,60 @@
+{
+    "name": "Young Couple bef98dcc-def6-488d-8127-b263f4fa75a6",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "GE GTS5550SCS",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 2
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Mini Cooper E",
+            "nominal_power_W": 5120.0,
+            "type": "SI",
+            "min_uptime": 5
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Microsoft Surface Laptop 4",
+            "nominal_power_W": 35,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "GE Cafe CGB715SKSS",
+            "nominal_power_W": 2500,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "LG LFXS2699SW",
+            "nominal_power_W": 130,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Toshiba M5500",
+            "nominal_power_W": 50,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Dirt Devil SB700 AccuCharge Cordless Stick",
+            "nominal_power_W": 100,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Samsung WF4&BBM9040AP",
+            "nominal_power_W": 1800,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Young Couple"
+}

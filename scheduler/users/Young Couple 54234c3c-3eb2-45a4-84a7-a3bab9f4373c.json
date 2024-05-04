@@ -1,0 +1,60 @@
+{
+    "name": "Young Couple 54234c3c-3eb2-45a4-84a7-a3bab9f4373c",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Maytag MDB8959SKW",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Fiat 500e 3+1 24 kWh",
+            "nominal_power_W": 3408.0,
+            "type": "SI",
+            "min_uptime": 5
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Lenovo ThinkPad X1 Carbon",
+            "nominal_power_W": 50,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Maytag MEC8800FZ",
+            "nominal_power_W": 2000,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Bosch KAN93NXUSD",
+            "nominal_power_W": 180,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "LG C2",
+            "nominal_power_W": 120,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Hoover ONEPWR Cordless Reach",
+            "nominal_power_W": 130,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Samsung WF4&BBM9040AP",
+            "nominal_power_W": 1800,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Young Couple"
+}

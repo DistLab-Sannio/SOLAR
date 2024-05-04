@@ -1,0 +1,154 @@
+[
+    {
+        "user": "Young Couple 0047c671-bc6a-4204-b8e3-481ee18286a7",
+        "appliance": "Vacuum Dirt Devil SB700 AccuCharge Cordless Stick",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 12
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 0047c671-bc6a-4204-b8e3-481ee18286a7",
+        "appliance": "Electric car Renault Twingo Electric",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 1,
+                    "end": 4
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 0047c671-bc6a-4204-b8e3-481ee18286a7",
+        "appliance": "Dishwasher Kenmore 66513",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 18
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 0047c671-bc6a-4204-b8e3-481ee18286a7",
+        "appliance": "Oven Whirlpool WOC5ER150",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 18
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 0047c671-bc6a-4204-b8e3-481ee18286a7",
+        "appliance": "Washing machine GE GTD42PASMVH",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 11
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 0047c671-bc6a-4204-b8e3-481ee18286a7",
+        "appliance": "Refrigerator Kenmore 73042",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 0047c671-bc6a-4204-b8e3-481ee18286a7",
+        "appliance": "Laptop Apple MacBook Air M1",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 0047c671-bc6a-4204-b8e3-481ee18286a7",
+        "appliance": "Television Samsung QN85B",
+        "weekday": "Wednesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

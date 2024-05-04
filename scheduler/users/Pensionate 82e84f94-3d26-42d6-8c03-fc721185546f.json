@@ -1,0 +1,53 @@
+{
+    "name": "Pensionate 82e84f94-3d26-42d6-8c03-fc721185546f",
+    "max_abs_power_W": 6000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Maytag MDB8959SKW",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Samsung Galaxy Book Pro",
+            "nominal_power_W": 38,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Bosch HBN3551UC",
+            "nominal_power_W": 2300,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Haier HRF-342D6AWB",
+            "nominal_power_W": 120,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Toshiba M5500",
+            "nominal_power_W": 50,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Hoover ONEPWR Cordless Reach",
+            "nominal_power_W": 130,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Electrolux EFLS617SI",
+            "nominal_power_W": 1000,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Pensionate"
+}

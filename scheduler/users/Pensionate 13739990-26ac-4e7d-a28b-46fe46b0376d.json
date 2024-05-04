@@ -1,0 +1,53 @@
+{
+    "name": "Pensionate 13739990-26ac-4e7d-a28b-46fe46b0376d",
+    "max_abs_power_W": 6000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "GE GTS5550SCS",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Lenovo ThinkPad X1 Carbon",
+            "nominal_power_W": 50,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Whirlpool WOC5ER150",
+            "nominal_power_W": 2200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Samsung RT25H5955BS",
+            "nominal_power_W": 100,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "LG C2",
+            "nominal_power_W": 120,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Bissell PowerEdge Slim Lightweight",
+            "nominal_power_W": 80,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Kenmore 79092",
+            "nominal_power_W": 1300,
+            "type": "SH",
+            "duration": 2
+        }
+    },
+    "profile": "Pensionate"
+}

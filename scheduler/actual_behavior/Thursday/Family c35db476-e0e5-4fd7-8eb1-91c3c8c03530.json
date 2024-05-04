@@ -1,0 +1,154 @@
+[
+    {
+        "user": "Family c35db476-e0e5-4fd7-8eb1-91c3c8c03530",
+        "appliance": "Vacuum BISSELL CrossWave Pet Pro",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 14,
+                    "end": 15
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family c35db476-e0e5-4fd7-8eb1-91c3c8c03530",
+        "appliance": "Electric car Mazda MX-30",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 4
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family c35db476-e0e5-4fd7-8eb1-91c3c8c03530",
+        "appliance": "Dishwasher Bosch SMS40E08EU",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 22,
+                    "end": 22
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family c35db476-e0e5-4fd7-8eb1-91c3c8c03530",
+        "appliance": "Oven Bosch HBN3551UC",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 12,
+                    "end": 12
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family c35db476-e0e5-4fd7-8eb1-91c3c8c03530",
+        "appliance": "Washing machine Whirlpool WTW79ES7HZ",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 19,
+                    "end": 19
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family c35db476-e0e5-4fd7-8eb1-91c3c8c03530",
+        "appliance": "Refrigerator Maytag MFI2278VR",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family c35db476-e0e5-4fd7-8eb1-91c3c8c03530",
+        "appliance": "Laptop Dell XPS 13",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Family c35db476-e0e5-4fd7-8eb1-91c3c8c03530",
+        "appliance": "Television Insignia NS-55F301NA21",
+        "weekday": "Thursday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

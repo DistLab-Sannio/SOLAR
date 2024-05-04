@@ -1,0 +1,60 @@
+{
+    "name": "Family c35db476-e0e5-4fd7-8eb1-91c3c8c03530",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Bosch SMS40E08EU",
+            "nominal_power_W": 1950,
+            "type": "SH",
+            "duration": 1
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Mazda MX-30",
+            "nominal_power_W": 4800.0,
+            "type": "SI",
+            "min_uptime": 5
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Dell XPS 13",
+            "nominal_power_W": 45,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Bosch HBN3551UC",
+            "nominal_power_W": 2300,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Maytag MFI2278VR",
+            "nominal_power_W": 125,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Insignia NS-55F301NA21",
+            "nominal_power_W": 45,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "BISSELL CrossWave Pet Pro",
+            "nominal_power_W": 500,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Whirlpool WTW79ES7HZ",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Family"
+}

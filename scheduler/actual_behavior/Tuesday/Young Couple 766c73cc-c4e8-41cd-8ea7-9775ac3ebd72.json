@@ -1,0 +1,154 @@
+[
+    {
+        "user": "Young Couple 766c73cc-c4e8-41cd-8ea7-9775ac3ebd72",
+        "appliance": "Vacuum BISSELL CrossWave Pet Pro",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 11
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 766c73cc-c4e8-41cd-8ea7-9775ac3ebd72",
+        "appliance": "Electric car Fiat 500e 3+1 24 kWh",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 3
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 766c73cc-c4e8-41cd-8ea7-9775ac3ebd72",
+        "appliance": "Dishwasher Maytag MDB8959SKW",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 22,
+                    "end": 22
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 766c73cc-c4e8-41cd-8ea7-9775ac3ebd72",
+        "appliance": "Oven Electrolux EI30BF01",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 11,
+                    "end": 11
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 766c73cc-c4e8-41cd-8ea7-9775ac3ebd72",
+        "appliance": "Washing machine Electrolux EFLS617SI",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 6
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 766c73cc-c4e8-41cd-8ea7-9775ac3ebd72",
+        "appliance": "Refrigerator KitchenAid KFIS20ET",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 0,
+                    "end": 5
+                }
+            ],
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ],
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 766c73cc-c4e8-41cd-8ea7-9775ac3ebd72",
+        "appliance": "Laptop Lenovo ThinkPad X1 Carbon",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 6,
+                    "end": 10
+                }
+            ],
+            [
+                {
+                    "start": 11,
+                    "end": 13
+                }
+            ],
+            [
+                {
+                    "start": 14,
+                    "end": 17
+                }
+            ]
+        ]
+    },
+    {
+        "user": "Young Couple 766c73cc-c4e8-41cd-8ea7-9775ac3ebd72",
+        "appliance": "Television Vizio M-Series",
+        "weekday": "Tuesday",
+        "interval_sets": [
+            [
+                {
+                    "start": 18,
+                    "end": 20
+                }
+            ],
+            [
+                {
+                    "start": 21,
+                    "end": 23
+                }
+            ]
+        ]
+    }
+]

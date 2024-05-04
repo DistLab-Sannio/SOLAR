@@ -1,0 +1,53 @@
+{
+    "name": "Pensionate d48fc575-8ea1-4681-8f0a-ded0141b471a",
+    "max_abs_power_W": 6000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Electrolux ESF6175PW",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "HP Spectre x360",
+            "nominal_power_W": 40,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Electrolux EI30BF01",
+            "nominal_power_W": 1500,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Whirlpool WRF535SMBHD",
+            "nominal_power_W": 110,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Sceptre S515WV-F",
+            "nominal_power_W": 35,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Samsung Jet Bot AI+",
+            "nominal_power_W": 180,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Samsung WF4&BBM9040AP",
+            "nominal_power_W": 1800,
+            "type": "SH",
+            "duration": 2
+        }
+    },
+    "profile": "Pensionate"
+}

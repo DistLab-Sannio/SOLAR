@@ -1,0 +1,60 @@
+{
+    "name": "Young Couple f12ef8a4-45f7-4e9b-a9e1-efb892317c87",
+    "max_abs_power_W": 8000,
+    "appliances": {
+        "Dishwasher": {
+            "class_name": "Dishwasher",
+            "model": "Electrolux ESF6175PW",
+            "nominal_power_W": 1200,
+            "type": "SH",
+            "duration": 1
+        },
+        "Electric car": {
+            "class_name": "Electric car",
+            "model": "Mini Cooper E",
+            "nominal_power_W": 5120.0,
+            "type": "SI",
+            "min_uptime": 5
+        },
+        "Laptop": {
+            "class_name": "Laptop",
+            "model": "Acer Swift 3",
+            "nominal_power_W": 25,
+            "type": "NSH"
+        },
+        "Oven": {
+            "class_name": "Oven",
+            "model": "Samsung NE59N5950SS",
+            "nominal_power_W": 1800,
+            "type": "SH",
+            "duration": 1
+        },
+        "Refrigerator": {
+            "class_name": "Refrigerator",
+            "model": "Haier HRF-342D6AWB",
+            "nominal_power_W": 120,
+            "type": "NSH"
+        },
+        "Television": {
+            "class_name": "Television",
+            "model": "Sony X90K",
+            "nominal_power_W": 100,
+            "type": "NSH"
+        },
+        "Vacuum": {
+            "class_name": "Vacuum",
+            "model": "Shark NV391",
+            "nominal_power_W": 120,
+            "type": "SI",
+            "min_uptime": 1
+        },
+        "Washing machine": {
+            "class_name": "Washing machine",
+            "model": "Electrolux EFLS617SI",
+            "nominal_power_W": 1000,
+            "type": "SH",
+            "duration": 1
+        }
+    },
+    "profile": "Young Couple"
+}
